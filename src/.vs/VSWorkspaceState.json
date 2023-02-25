@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\salesman",
+    "\\views",
+    "\\views\\salesman\\record",
+    "\\views\\user",
+    "\\views\\user\\cart",
+    "\\views\\user\\home",
+    "\\views\\user\\mall",
+    "\\views\\user\\mine"
+  ],
+  "SelectedNode": "\\views\\user\\mall",
+  "PreviewInSolutionExplorer": false
+}
